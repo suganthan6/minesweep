@@ -16,7 +16,7 @@ g++ minesweeper.cpp -o minesweeper
 ```
 
 
-## How to play
+### How to play
 
 ### Choose a difficulty
 
