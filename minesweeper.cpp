@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <cstdlib>
+
 using namespace std;
 
 #define max_mine 99
